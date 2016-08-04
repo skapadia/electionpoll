@@ -1,0 +1,17 @@
+{
+  "name": "electionpoll",
+  "version": "0.0.1",
+  "description": "Expose endpoints that return data on 2016 US Presidential election poll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujan Kapadia",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "cheerio": "^0.20.0",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
